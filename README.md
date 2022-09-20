@@ -1,8 +1,19 @@
-<h1 align="center">Hi 👋, I'm Sahana!</h1>
+<h1 align="center">Hi there, I'm Sahana!👋</h1>
 <h3 align="center">
   I'm a Full stack developer at Synamedia. I've completed my bachelors at MSRIT,
   Bangalore.
 </h3>
+
+### 😄 Pronouns
+She/Her
+
+### 🌱 What do I do and What have I done? 
+
+- Full Stack Developer [@synamedia](https://www.synamedia.com/) 
+- Recipient of the Best Intern Award 2021 [@synamedia](https://www.synamedia.com/)
+- Interned as Asscoiate Trainee [@synamedia](https://www.synamedia.com/)
+- Student Marketeer [@RedBullIndia](https://www.redbull.com/)
+
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

@@ -11,7 +11,6 @@ She/Her
 
 - Full Stack Developer [@synamedia](https://www.synamedia.com/) 
 - Recipient of the Best Intern Award 2021 [@synamedia](https://www.synamedia.com/)
-- Interned as Asscoiate Trainee [@synamedia](https://www.synamedia.com/)
 - Student Marketeer [@RedBullIndia](https://www.redbull.com/)
 
 

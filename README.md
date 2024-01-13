@@ -183,5 +183,9 @@ She/Her
 </p>
 
 <p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=sahanajprakash&theme=dark&mode=weekly" alt="GitHub Streak" /></a>
+ <img
+    align="center"
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sahanajprakash&theme=dark"
+    alt="Profile contributions"
+  /> 
 </p>

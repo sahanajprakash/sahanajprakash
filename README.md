@@ -9,9 +9,10 @@ She/Her
 
 ### 🌱 What do I do and What have I done? 
 
-- Full Stack Developer [@synamedia](https://www.synamedia.com/) 
+- I'm currently a Full Stack Developer [@synamedia](https://www.synamedia.com/) 
 - Recipient of the Best Intern Award 2021 [@synamedia](https://www.synamedia.com/)
-- Student Marketeer [@RedBullIndia](https://www.redbull.com/)
+- I'm currently working with NextJS and also learning Rust for fun.
+- HMU if you have a cool idea for the ChatGPT store, let's build together!
 
 
 <h3 align="center">Connect with me:</h3>

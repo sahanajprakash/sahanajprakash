@@ -10,8 +10,8 @@ She/Her
 
 - I'm currently pursuing my Master's in Computer Software Engineering at [Northeastern University](https://www.northeastern.edu/)
 - Previously, Full Stack Developer [@synamedia](https://www.synamedia.com/) 
-- Lately been exploring data science and machine learning models for financial data.
-- HMU if you're working on threejs. I need some inspiration.
+- Lately I've been exploring data science and machine learning models for financial data.
+- HMU if you're working on threejs, I need some inspiration.
 - Recipient of the Best Intern Award 2021 [@synamedia](https://www.synamedia.com/)
 
 

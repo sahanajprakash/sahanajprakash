@@ -1,7 +1,6 @@
 <h1 align="center">Hi there, I'm Sahana!👋</h1>
 <h3 align="center">
-  I'm a Full stack developer at Synamedia. I've completed my bachelors at MSRIT,
-  Bangalore.
+  I'm a Full stack developer. Currently at Northeastern University, Boston.
 </h3>
 
 ### 😄 Pronouns
@@ -9,9 +8,10 @@ She/Her
 
 ### 🌱 What do I do and What have I done? 
 
-- I'm currently a Full Stack Developer [@synamedia](https://www.synamedia.com/) 
-- I'm currently working with NextJS and also learning Rust for fun.
-- HMU if you have a cool idea for the ChatGPT store, let's build together!
+- I'm currently pursuing my Master's in Computer Software Engineering at [Northeastern University](https://www.northeastern.edu/)
+- Previously, Full Stack Developer [@synamedia](https://www.synamedia.com/) 
+- Lately been exploring data science and machine learning models for financial data.
+- HMU if you're working on threejs. I need some inspiration.
 - Recipient of the Best Intern Award 2021 [@synamedia](https://www.synamedia.com/)
 
 

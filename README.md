@@ -189,4 +189,3 @@ She/Her
     alt="Profile contributions"
   /> 
 </p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sahanajprakash&show_icons=true&locale=en&layout=compact" alt="sahanajprakash" /></p>

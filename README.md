@@ -14,6 +14,12 @@ She/Her
 - HMU if you're working on Three.js, I need some inspiration.
 - Recipient of the Best Intern Award 2021 [@synamedia](https://www.synamedia.com/)
 
+### What I want to build
+
+See [Project Ideas](https://www.github.com/gauthamys/project-ideas)
+(A repository of project ideas with me and [@gauthamys](https://www.github.com/gauthamys))
+
+Feel free to hit me up or get in touch if any of these ideas interest you, we'd love to work together!
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">

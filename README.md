@@ -191,7 +191,7 @@ Feel free to hit me up or get in touch if any of these ideas interest you, we'd 
 <p align="center">
  <img
     align="center"
-    src="https://github-readme-streak-stats.herokuapp.com/?user=sahanajprakash&theme=dark"
+    src="https://streak-stats.demolab.com/?user=sahanajprakash"
     alt="Profile contributions"
   /> 
 </p>
